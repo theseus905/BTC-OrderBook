@@ -3,9 +3,9 @@ install:
 
 setup:
 	pip3 install virtualenv
-	virtualenv coin routes
-	source coinroutes/bin/activate
+	virtualenv orderbook
+	source orderbook/bin/activate
 	pip3 install -r requirements.txt
 
 run:
-	python3 coinroutes_challenge.py
+	python3 main.py
