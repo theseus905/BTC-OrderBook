@@ -1,4 +1,4 @@
-## CoinRoutes Challenge ReadMe
+## BTC OrderBOok
 #### This script gets a selection of orders from three exchanges (Coinbase, Gemini, and Kraken) given a quantity. It returns a selection of orders, the total price and total coins of said selection.
 
 ### Getting Started
