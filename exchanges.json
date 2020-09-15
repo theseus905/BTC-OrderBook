@@ -1,0 +1,28 @@
+{
+    "exchanges":[
+        {
+            "CoinBase":{
+                "name":"CoinBase",
+                "url":"https://api.pro.coinbase.com",
+                "endpoint":"/products/BTC-USD/book",
+                "params":"?level=2"
+            }
+        },
+        {
+            "Gemini":{
+                "name":"Gemini",
+                "url":"https://api.gemini.com",
+                "endpoint":"/v1/book/BTCUSD",
+                "params":""
+            }
+        },
+        {
+            "Kraken":{
+                "name":"Kraken",
+                "url":"https://api.kraken.com",
+                "endpoint":"/0/public/Depth",
+                "params":"?pair=XBTUSD"
+            }
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+gevent==20.6.2
+greenlet==0.4.16
+grequests==0.6.0
+idna==2.10
+pip-tools==5.3.1
+requests==2.24.0
+six==1.15.0
+urllib3==1.25.10
+zope.event==4.4
+zope.interface==5.1.0
